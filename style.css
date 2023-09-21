@@ -1,0 +1,16 @@
+body{
+	background-color:lightblue;
+	background-image:url("szkola.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color:blue;
+	font-size: 5em;
+	font-family: Impact;
+}
+p{
+	color:red;
+	font-size:3em;
+	font-family: "Times new roman";
+}
